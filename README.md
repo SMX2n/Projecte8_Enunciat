@@ -23,16 +23,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie ligula
 Diferents pimes volen impulsar el seu negoci a través de la digitalització, però no saben per on començar. El teu equip ha de realitzar una anàlisi exhaustiva de les necessitats de digitalització del client i elaborar un pla de transformació digital que inclogui les següents etapes:
 
 ```mermaid
+
 graph TD
     A["Anàlisi de l'estat actual<br/>Avaluar tecnologies i processos per identificar àrees de millora."] 
     --> B["Definició d'objectius<br/>Establir fites clares i mesurables alineades amb el client."]
     
     B --> C[Selecció de tecnologies<br/>Identificar eines adequades segons necessitats i pressupost."]
-
-    %% Estils per millorar la visualització
-    style A stroke:#333,stroke-width:2px
-    style B stroke:#333,stroke-width:2px
-    style C stroke:#333,stroke-width:2px
 ```
 
 El professorat us indicarà a cada equip el client específic que hauràs d'analitzar.
