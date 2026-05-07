@@ -22,19 +22,38 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie ligula
 
 Diferents pimes volen impulsar el seu negoci a través de la digitalització, però no saben per on començar. El teu equip ha de realitzar una anàlisi exhaustiva de les necessitats de digitalització del client i elaborar un pla de transformació digital que inclogui les següents etapes:
 
-- Anàlisi de l'estat actual: avaluar les tecnologies i processos actuals del client per identificar les àrees que necessiten millora.
-- Definició d'objectius: establir objectius clars i mesurables per a la transformació digital, alineats amb les necessitats del client.
-- Selecció de tecnologies: identificar les tecnologies més adequades per a la transformació digital del client, tenint en compte les seves necessitats i pressupost
+```mermaid
+graph TD
+    A["**1. Anàlisi de l'estat actual**<br/>Avaluar tecnologies i processos per<br/>identificar àrees de millora."] 
+    --> B["**2. Definició d'objectius**<br/>Establir fites clares i mesurables<br/>alineades amb el client."]
+    
+    B --> C["**3. Selecció de tecnologies**<br/>Identificar eines adequades segons<br/>necessitats i pressupost."]
+
+    %% Estils per millorar la visualització
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#bbf,stroke:#333,stroke-width:2px
+    style C fill:#bfb,stroke:#333,stroke-width:2px
+```
 
 El professorat us indicarà a cada equip el client específic que hauràs d'analitzar.
 
 #### Llistat clients:
 
 - [Client 1: cafeteria "El Racó del Cafè"](enunciats/client1.md)
-- [Client 2:](enunciats/client2.md)
+- [Client 2: TransRàpid S.L.](enunciats/client2.md)
 - [Client 3:](enunciats/client3.md)
 - [Client 4:](enunciats/client4.md)
 
 ### Tasca 2: elaborar el pla de sostenibilitat per xxx
 
 
+## Lliurament del projecte
+
+Cliqueu sobre l'enllaç corresponent a la vostra classe:
+
+- SMX 2n A [enllaç]()
+- SMX 2n B [enllaç]()
+
+A la pàgina `README.md` completeu les dades que es demanen. Crear les carpetes corresponents a les tasques demanades i a dins crear un `README.md` presentant l'activitat i un arxiu `solucio.md` amb la solució elaborada.
+
+Les imatges que s'incorporin han d'estar dins una carpeta /img i si els diagrames, esquemes, etc. feu servir el format `mermaid`.

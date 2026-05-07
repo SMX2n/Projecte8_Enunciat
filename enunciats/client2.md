@@ -31,9 +31,7 @@ Dissenyar un pla per garantir que les dades de facturació i rutes no es perdin 
 
 El lliurament consistirà en una Proposta de Solució Tecnològica en format PDF que contingui:
 
-- Diagnòstic de situació: Llistat de "punts de dolor" que l'empresa pateix amb l'Excel.
-- Catàleg de Hardware: Especificacions tècniques i preus dels equips d'oficina i els dispositius mòbils per als vehicles.
-- Estudi Comparatiu de Software: Taula comparativa entre una opció basada en programari lliure (més personalitzable) i una comercial (amb suport directe).
-- Pressupost de Digitalització: Desglossament total incloent maquinari, llicències (si n'hi ha) i hores de configuració i formació per als treballadors.
-- Cronograma bàsic: Quant de temps trigareu a tenir el sistema en marxa?
-
+- **Diagnòstic de situació**: Llistat de "punts de dolor" que l'empresa pateix amb l'Excel.
+- **Catàleg de Hardware**: Especificacions tècniques i preus dels equips d'oficina i els dispositius mòbils per als vehicles.
+- **Estudi Comparatiu de Software**: Taula comparativa entre una opció basada en programari lliure (més personalitzable) i una comercial (amb suport directe).
+- **Pressupost de Digitalització**: Desglossament total incloent maquinari, llicències (si n'hi ha) i hores de configuració i formació per als treballadors.
