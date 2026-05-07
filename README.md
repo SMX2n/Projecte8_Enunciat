@@ -27,8 +27,7 @@ Diferents pimes volen impulsar el seu negoci a través de la digitalització, pe
 graph TD
     A["Anàlisi de l'estat actual<br/>Avaluar tecnologies i processos per identificar àrees de millora."] 
     --> B["Definició d'objectius<br/>Establir fites clares i mesurables alineades amb el client."]
-    
-    B --> C[Selecció de tecnologies<br/>Identificar eines adequades segons necessitats i pressupost."]
+    --> C["Selecció de tecnologies<br/>Identificar eines adequades segons necessitats i pressupost."]
 ```
 
 El professorat us indicarà a cada equip el client específic que hauràs d'analitzar.
