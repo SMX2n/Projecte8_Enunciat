@@ -3,9 +3,9 @@
 ## Taula de continguts
 
 - [Introducció al cas](#introducció-al-cas)
-- [Resultats d'aprenentatge](#resultats-daprenentatge)
-- [Resultats d'aprenentatge de CPS](#RA-de-CPS)
-- [Tasques a realitzar](#Tasques-a-realitzar)
+- [Resultats d'aprenentatge](#resultats-daprenentatge-i-criteris-davaluació)
+- [Resultats d'aprenentatge de CPS](#ra-de-cps)
+- [Tasques a realitzar](#tasques-a-realitzar)
 
 ---
 
