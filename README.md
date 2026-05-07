@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie ligula
 
 ## Tasques a realitzar
 
-### Tasca 1: analitzar les necessitats de digitalització del client i elaborar un pla de transformació digital.
+### Tasca 1: analitzar les necessitats de digitalització del client i elaborar un pla de transformació digital
 
 Diferents pimes volen impulsar el seu negoci a través de la digitalització, però no saben per on començar. El teu equip ha de realitzar una anàlisi exhaustiva de les necessitats de digitalització del client i elaborar un pla de transformació digital que inclogui les següents etapes:
 
@@ -33,7 +33,7 @@ graph TD
 
 El professorat us indicarà a cada equip el client específic que hauràs d'analitzar.
 
-#### Llistat clients:
+#### Llistat clients
 
 - [Client 1: cafeteria "El Racó del Cafè"](enunciats/client1.md)
 - [Client 2: TransRàpid S.L.](enunciats/client2.md)
@@ -41,7 +41,6 @@ El professorat us indicarà a cada equip el client específic que hauràs d'anal
 - [Client 4:](enunciats/client4.md)
 
 ### Tasca 2: elaborar el pla de sostenibilitat per xxx
-
 
 ## Lliurament del projecte
 
