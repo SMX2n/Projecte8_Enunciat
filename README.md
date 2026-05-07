@@ -25,9 +25,9 @@ Diferents pimes volen impulsar el seu negoci a través de la digitalització, pe
 ```mermaid
 
 graph TD
-    A["**Anàlisi de l'estat actual**<br/>Avaluar tecnologies i processos per identificar àrees de millora."] 
-    --> B["**Definició d'objectius**<br/>Establir fites clares i mesurables alineades amb el client."]
-    --> C["**Selecció de tecnologies**<br/>Identificar eines adequades segons necessitats i pressupost."]
+    A["<b>Anàlisi de l'estat actual</b> <br/>Avaluar tecnologies i processos per identificar àrees de millora."] 
+    --> B["<b>Definició d'objectius</b> <br/>Establir fites clares i mesurables alineades amb el client."]
+    --> C["<b>Selecció de tecnologies</b> <br/>Identificar eines adequades segons necessitats i pressupost."]
 ```
 
 El professorat us indicarà a cada equip el client específic que hauràs d'analitzar.
