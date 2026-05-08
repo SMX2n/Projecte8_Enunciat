@@ -1,4 +1,4 @@
-# Projecte 8
+# Projecte 8. Connecta't al Futur: El repte de la digitalització real
 
 ## Taula de continguts
 
@@ -25,8 +25,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie ligula
 
 Cliqueu sobre l'enllaç corresponent a la vostra classe:
 
-- SMX 2n A [enllaç](https://github.com/Projecte8/SMX2A)
-- SMX 2n B [enllaç](https://github.com/Projecte8/SMX2B)
+- SMX 2n A [enllaç](https://classroom.github.com/a/kK1qCM2A)
+- SMX 2n B [enllaç](https://classroom.github.com/a/f1QazMyI)
 
 A la pàgina `README.md` completeu les dades que es demanen. Crear les carpetes corresponents a les tasques demanades i a dins crear un `README.md` presentant l'activitat i un arxiu `solucio.md` amb la solució elaborada.
 
