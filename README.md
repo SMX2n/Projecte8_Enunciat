@@ -30,4 +30,4 @@ Cliqueu sobre l'enllaç corresponent a la vostra classe:
 
 A la pàgina `README.md` completeu les dades que es demanen. Crear les carpetes corresponents a les tasques demanades i a dins crear un `README.md` presentant l'activitat i un arxiu `solucio.md` amb la solució elaborada.
 
-Les imatges que s'incorporin han d'estar dins una carpeta `/img` i si cal incorporar diagrames, esquemes, etc. es recomana que feu servir el format `mermaid`.
+Les imatges que s'incorporin han d'estar dins una carpeta `/img` i si cal incorporar diagrames, esquemes, etc. es recomana que feu servir el format `mermaid`, tot i que també podeu incorporar imatges amb el format `png` o `jpg` si ho preferiu.

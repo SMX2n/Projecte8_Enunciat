@@ -7,7 +7,7 @@ L'ONG "Horitzons Digitals" ha rebut una subvenció per alfabetitzar digitalment 
 La vostra empresa ha de realitzar les següents tasques:
 
 1. **Auditoria del Local i Definició de Perfils**
-    - Analitzar l'espai (quantes preses de xarxa calen? Hi ha bona ventilació? Quants alumnes hi caben?).
+    - Analitzar l'espai: quantes preses de xarxa calen? Quants alumnes hi caben?.
     - Definir les necessitats segons l'usuari: No necessita el mateix un alumne que aprèn a fer servir el correu electrònic que un jove que vol aprendre programació bàsica o disseny gràfic.
 2. **Disseny del Maquinari (Hardware)**
     - Selecció de l'arquitectura: Ordinadors de sobretaula, portàtils o potser Thin Clients amb un servidor central per estalviar costos?

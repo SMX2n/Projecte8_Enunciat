@@ -18,7 +18,6 @@ Com a empresa IT, haureu de resoldre:
    * **Xarxa:** Router professional i Punts d'Accés (AP) amb capacitat per a molts usuaris simultanis.  
 4. **Selecció de Programari (Software) i Costos:**  
    * Comparar **Software Lliure** (ex: **Floreant POS** o **Odoo Community**) vs. **Software Comercial** amb quotes mensuals (ex: **Revo** o **Square**).  
-   * Analitzar la integració amb mòduls d'inventari (que es desperti l'estoc automàticament cada cop que es ven un cafè).
 
 ## Què cal lliurar
 
