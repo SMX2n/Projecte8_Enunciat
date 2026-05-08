@@ -12,9 +12,29 @@
 
 ## Introducció al cas
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam molestie ligula a velit fringilla aliquam. Maecenas risus libero, egestas vitae lacinia id, eleifend tempor massa. Nulla non sapien et sem tincidunt pulvinar. Suspendisse id dui id neque dictum malesuada vitae in magna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Maecenas purus lorem, varius vel tempus convallis, facilisis a turpis. Quisque euismod nisl odio. Proin suscipit tellus lorem, non commodo arcu hendrerit a. Donec quis facilisis mi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer in velit a lorem dapibus molestie quis sed lectus. Etiam at facilisis erat. Ut sagittis pretium dolor quis laoreet. Nulla facilisi. Aliquam lacinia ullamcorper imperdiet.
+Benvinguts al darrer projecte del curs!
+
+En aquest projecte, us convertireu en consultors tecnològics per a petites i mitjanes empreses (pimes) i la vostra missió serà una de les més demanades actualment al mercat: acompanyar els petits negocis en el seu camí cap a la digitalització.
 
 ![imatge per il·lustrar projecte](img/pic1.png)
+
+### Quin és el repte?
+
+Moltes petites empreses del nostre entorn dominen el seu producte, però tenen dificultats per adaptar-se a les noves tecnologies. El vostre objectiu serà analitzar casos reals de negocis que necessiten modernitzar-se. No es tracta només d'instal·lar programari, sinó de trobar la solució tecnològica que realment els ajudi a ser més competitius, eficients i segurs.
+
+Al llarg d'aquest projecte, treballareu de forma pràctica:
+
+- Analitzareu les necessitats d'un client real.
+- Dissenyareu solucions a mida (infraestructura, seguretat, gestió de dades, etc.).
+- Assessorareu el negoci perquè l'adaptació tecnològica sigui un èxit.
+
+Però ser un bon informàtic avui dia no només vol dir saber de codi o de xarxes. La tecnologia té un impacte directe en el nostre planeta i en la societat. Per això, haureu d'elaborar un pla de sostenibilitat específic per a un dels vostres clients.
+
+L'objectiu és aplicar els Objectius de Desenvolupament Sostenible (ODS) a la vostra proposta: des de la reducció de la petjada de carboni dels equips fins a garantir un ús ètic i responsable de la tecnologia. Volem solucions que siguin bones per al client, però també per al món on vivim.
+
+Aquest projecte és l'oportunitat ideal per posar en pràctica tot el que heu après als diferents mòduls, treballant en equip i enfrontant-vos a problemes del món real.
+
+Prepareu-vos, perquè les empreses us estan esperant. Comencem?
 
 ## Tasques a realitzar
 
