@@ -43,7 +43,7 @@ Per això haurem de fer les següents fases i tasques:
 2. Protocol de gestió de residus (RAEE).
 3. Càlcul de KPIs: PUE (eficiència de potència) i Taxa de Reutilització de hardware.
 
-**Lliurable**: Informe Executiu de Consultoria (PDF).
+**Lliurable**: Pla de sostenibilitat integral.
 
 ## Objectius específics / Finalitat de la tasca
 
@@ -74,7 +74,7 @@ Elaboració d’un informe de sostenibilitat: grups d’interès, anàlisi dels 
 
 | Autonomia | Organització del treball | Treball en equip |
 | :--- | :--- | :--- |
-| Innovació | Responsabilitat | ~~Resolució de problemes~~ |
+| Innovació | Responsabilitat | Resolució de problemes |
 | Relació Interpersonal | | |
 
 ## Distribució horària
@@ -87,6 +87,6 @@ Assignació horària:
 
 ## Quan es necessita, termini i forma de lliurament
 
-- Producte final: Informe Executiu de Consultoria.
+- Producte final: Document amb el pla de sostenibilitat integral.
 - Termini lliurament: abans data finalitació del projecte.
 - Lliurar la tasca al repositori de projecte.
